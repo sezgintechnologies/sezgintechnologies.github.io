@@ -13,6 +13,7 @@ Source of **[sezgintechnologies.github.io](https://sezgintechnologies.github.io)
 | MAGNETRA | [support](https://sezgintechnologies.github.io/magnetra/support.html) · [privacy](https://sezgintechnologies.github.io/magnetra/privacy.html) | [destek](https://sezgintechnologies.github.io/magnetra/support.html#tr) · [gizlilik](https://sezgintechnologies.github.io/magnetra/privacy.html#tr) |
 | Jigsaw Atelier 3D | [support](https://sezgintechnologies.github.io/jigsaw-atelier/support.html) · [privacy](https://sezgintechnologies.github.io/jigsaw-atelier/privacy.html) | [destek](https://sezgintechnologies.github.io/jigsaw-atelier/support.html#tr) · [gizlilik](https://sezgintechnologies.github.io/jigsaw-atelier/privacy.html#tr) |
 | THINKALL | [support](https://sezgintechnologies.github.io/thinkall/support.html) · [privacy](https://sezgintechnologies.github.io/thinkall/privacy.html) | [destek](https://sezgintechnologies.github.io/thinkall/support.html#tr) · [gizlilik](https://sezgintechnologies.github.io/thinkall/privacy.html#tr) |
+| TABULA | [support](https://sezgintechnologies.github.io/tabula/support.html) · [privacy](https://sezgintechnologies.github.io/tabula/privacy.html) | [destek](https://sezgintechnologies.github.io/tabula/support.html#tr) · [gizlilik](https://sezgintechnologies.github.io/tabula/privacy.html#tr) |
 | Ad sellers | [app-ads.txt](https://sezgintechnologies.github.io/app-ads.txt) | |
 
 The pages are plain static HTML with no cookies, trackers or third-party scripts.
